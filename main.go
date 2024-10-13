@@ -1,7 +1,7 @@
 package main
 
 import (
-	"Zero/cmd"
+	"sdb/cmd"
 )
 
 func main() {
